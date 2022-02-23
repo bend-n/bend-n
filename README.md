@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendnuts)](https://github.com/anuraghazra/github-readme-stats)
+# hi there
+<a href="https://github.com"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bendnuts&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="github stats" /></a> <a href="https://github.com"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendnuts&layout=compact&theme=radical&hide_border=true" /></a>
