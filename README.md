@@ -5,7 +5,7 @@
 <a href="https://ko-fi.com/bendn" target="blank"><img src="https://img.shields.io/badge/Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
-<h4><p align="center">I cook pancakes. (with blueberrys)</p></h3>
+<h4><p align="center">I cook pancakes. (with blueberries)</p></h3>
 
 <p align="center"
 
